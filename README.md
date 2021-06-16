@@ -1,5 +1,5 @@
 # IOT data visualization （物联网数据可视化）
-This project visualizes serial, time varing data in a matrix of bar charts. It can visualize group of data of 3 dimensions, e.g., time, expected value, actual value.  
+This project visualizes serial, time varing data in a matrix of bar charts. It can visualize group of data of 3 dimensions, e.g., time, expected value, actual value.  此项目可视化了测量数据的时间序列，以柱状图的形式渲染。数据是3维的时间序列信号，比如3个维度可以是：时间、估计值、实测值。
  
 ## Prerequisites （环境配置要求）
 D3.js library, which can be found on [D3-Datadriven Documents](https://github.com/d3/d3) 安装D3Js 数据驱动文件。
